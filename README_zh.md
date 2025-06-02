@@ -59,4 +59,4 @@ fleximq 协议规范遵循语义化版本 2.0.0 (Semantic Versioning 2.0.0)。�
 
 ## 许可证
 
-fleximq 规范采用 [MIT 许可证](./LICENSE)授权。
+fleximq 规范采用 [Unlicense 许可证](./LICENSE)授权。
