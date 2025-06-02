@@ -1,9 +1,7 @@
 <div align="center">
     <img width="120" src="icon.svg" alt="logo">
-  <h1 id="fleximq">fleximq</h1>
+  <h1 id="fleximq">fleximq Specification</h1>
 </div>
-
-# fleximq Specification
 
 This repository hosts the official specification for the fleximq protocol. fleximq is a flexible message queuing protocol designed for high performance and reliability.
 
