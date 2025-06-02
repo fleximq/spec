@@ -59,4 +59,4 @@ The fleximq protocol specification follows Semantic Versioning 2.0.0. Each offic
 
 ## License
 
-The fleximq specification is licensed under the [MIT License](./LICENSE).
+The fleximq specification is licensed under the [Unlicense](./LICENSE).
