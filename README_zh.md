@@ -1,3 +1,8 @@
+<div align="center">
+    <img width="120" src="icon.svg" alt="logo">
+  <h1 id="fleximq">fleximq</h1>
+</div>
+
 # fleximq 规范
 
 本仓库托管 fleximq 协议的官方规范。fleximq 是一种为高性能和高可靠性而设计的灵活消息队列协议。
